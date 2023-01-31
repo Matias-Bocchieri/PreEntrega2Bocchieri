@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    /* width: 100vw; */
+    height: 100vh;
+}
+
+header {
+    height: 5vh;
+}
+
+main {
+    height: 80vh;
+    background-color:#6c757d ;
+    margin-top: 10px;
+}
+
+.imgNosotros {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.top {
+    display: flex;
+}
+
+.top img {
+    margin-right: 40px;
+    margin-left: 20px;
+}
+
+
+
+.video {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+footer { 
+    height:15vh;
+}
+
